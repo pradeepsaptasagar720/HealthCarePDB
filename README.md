@@ -70,9 +70,11 @@ python main.py
 ---
 
 ## 📸 Screenshots
-
-<img width="1920" height="1080" alt="Screenshot (272)" src="https://github.com/user-attachments/assets/06a13835-503a-4462-a004-cc5e24f4f737" />
-
+<img width="1907" height="934" alt="Screenshot (272)" src="https://github.com/user-attachments/assets/68e2b2bc-8c6a-4453-a15d-9011acd9154a" />
+<img width="1903" height="983" alt="Screenshot (273)" src="https://github.com/user-attachments/assets/a140deef-f386-422d-8443-a8531b49638e" />
+<img width="1899" height="1001" alt="Screenshot (274)" src="https://github.com/user-attachments/assets/769765ad-957a-4ab1-8013-181c53363a6f" />
+<img width="1914" height="745" alt="Screenshot (275)" src="https://github.com/user-attachments/assets/e9a541f1-7b5d-4d98-baa4-d6f33418d3bb" />
+<img width="1912" height="1010" alt="Screenshot (276)" src="https://github.com/user-attachments/assets/9bf15287-5cb1-4358-91da-07565b3c6689" />
 ---
 
 ## 📧 Author
